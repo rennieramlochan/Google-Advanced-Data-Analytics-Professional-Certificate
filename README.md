@@ -4,64 +4,11 @@ Certificate:
 Certificate for Rennie Ramlochan, Advanced Data Analytics Professional Certificate, offered through Google.
 
 
-Those who earn the Advanced Data Analytics Professional Certificate have completed seven courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for roles in Data Science and Advanced Data Analytics. They are competent in utilizing the PACE (Plan, Analyze, Construct, Execute) framework, applying advanced statistical methods, and building predictive machine learning models to drive business decision-making.
-
-The focus of this Portfolio was to curate the practical projects developed throughout the curriculum, showcasing the ability to translate raw data into actionable business insights using the PACE framework.
-
-01. Foundations of Data Science
-
-
-Introduction to the data professional ecosystem and the foundational framework for project management.
-
-
-By the end of this course, you’ll be able to:
-
-02. Get Started with Python
-
-
-Building a foundation in Python programming specifically for data manipulation.
-
-
-By the end of this course, you’ll be able to:
-
-03. Data Insights
-
-
-Exploratory Data Analysis (EDA) and effective data visualization.
-
-
-By the end of this course, you’ll be able to:
-
-04. Statistics
-
-
-Applying statistical rigor to data analysis.
-
-
-By the end of this course, you'll be able to:
-
-05. Regression Analysis
-
-
-Understanding relationships between variables through predictive modeling.
-
-
-By the end of this course, you will be able to:
-
-06. Machine Learning
-
-
-Building and evaluating predictive models.
-
-
-By the end of this course, you'll be able to:
-
-07. Capstone Project
-
-
-Executing an end-to-end data science pipeline.
-
-
-By the end of this course, you’ll have proven your ability to:
-
-Repository Structure
+Google-Advanced-Data-Analytics-Professional-Certificate📖 OverviewThis repository serves as a professional portfolio documenting the completion of the Google Advanced Data Analytics Professional Certificate offered through Coursera.This program focuses on the technical and analytical skills required for data science, emphasizing the PACE (Plan, Analyze, Construct, Execute) framework to manage the full data lifecycle. This repository curates the practical projects developed throughout the curriculum, showcasing my ability to translate raw data into actionable business insights.🎯 Technical ProficienciesData Analysis: Proficiency in Python libraries (Pandas, NumPy, Matplotlib, Seaborn) for complex data manipulation and visualization.Statistical Analysis: Implementing hypothesis testing, A/B testing, and regression analysis to support data-driven decision-making.Machine Learning: Developing, training, and evaluating predictive models (Regression, Random Forest, XGBoost).Workflow Management: Applying the PACE framework to ensure structured, repeatable project execution.Reporting: Creating data-driven narratives for stakeholders using clear visualizations.🎓 Course Curriculum & ProjectsModuleFocus AreaKey Deliverables01Foundations of Data SciencePACE framework documentation.02Get Started with PythonPython data structures & cleaning scripts.03Data InsightsExploratory Data Analysis (EDA) & Tableau dashboards.04StatisticsHypothesis testing & A/B test results.05Regression AnalysisLinear and logistic regression models.06Machine LearningSupervised/Unsupervised learning models.07Capstone ProjectEnd-to-end data science pipeline.📂 Repository StructurePlaintext├── course-01-foundations/              # PACE workflow documentation
+├── course-02-python-basics/            # Jupyter notebooks and data cleaning
+├── course-03-eda-insights/             # Exploratory analysis and visualizations
+├── course-04-statistics/               # Statistical testing and inference
+├── course-05-regression/               # Regression modeling projects
+├── course-06-machine-learning/         # Predictive modeling notebooks
+└── course-07-capstone/                 # Final end-to-end project analysis
+🚀 How to ViewBrowse the Directories: Each folder corresponds to a course module.View Notebooks: GitHub automatically renders .ipynb files. Simply click on any notebook file to view the code, visualizations, and analysis results directly in your browser.Review the PACE Documentation: Check the README.md files within each directory to understand the business problem and the methodology used to solve it.Maintained by Rennie Ramlochan
