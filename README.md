@@ -11,6 +11,8 @@ This repository serves as a professional portfolio documenting the completion of
 This program focuses on the technical and analytical skills required for data science, emphasizing the **PACE (Plan, Analyze, Construct, Execute)** framework to manage the full data lifecycle.
 This program includes over 180 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in data analytics. 
 
+Those who earn the Google Advanced Data Analytics Professional Certificate have completed seven courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for roles in advanced data analytics and data science. They are competent in applying the PACE project framework to manage end-to-end data projects, as well as utilizing industry-standard programming languages and software such as Python, Tableau, and advanced statistical and machine learning libraries.
+
 ---
 
 ## Technical Proficiencies
