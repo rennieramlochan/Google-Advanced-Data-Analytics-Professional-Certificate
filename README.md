@@ -1,9 +1,11 @@
-Google-Advanced-Data-Analytics-Professional-Certificate
+# Google-Advanced-Data-Analytics-Professional-Certificate
 Certificate:
+
+<img src="https://github.com/rennieramlochan/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/Google%20Advanced%20Data%20Analytics.jpeg?raw=true" alt="View 
 
 Certificate for Rennie Ramlochan, Advanced Data Analytics Professional Certificate, offered through Google.
 
-# Google-Advanced-Data-Analytics-Professional-Certificate
+
 
 ![Certificate for Rennie Ramlochan](URL_TO_YOUR_CERTIFICATE_IMAGE)
 
