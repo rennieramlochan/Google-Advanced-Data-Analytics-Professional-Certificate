@@ -9,6 +9,7 @@ Certificate for Rennie Ramlochan, Advanced Data Analytics Professional Certifica
 This repository serves as a professional portfolio documenting the completion of the **Google Advanced Data Analytics Professional Certificate** offered through Coursera.
 
 This program focuses on the technical and analytical skills required for data science, emphasizing the **PACE (Plan, Analyze, Construct, Execute)** framework to manage the full data lifecycle.
+This program includes over 180 hours of instruction and hundreds of practice-based assessments, which will help you simulate real-world data analytics scenarios that are critical for success in the workplace. The content is highly interactive and exclusively developed by Google employees with decades of experience in data analytics. 
 
 ---
 
