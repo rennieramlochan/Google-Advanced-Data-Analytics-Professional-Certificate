@@ -1,13 +1,9 @@
 # Google-Advanced-Data-Analytics-Professional-Certificate
 Certificate:
 
-<img src="https://github.com/rennieramlochan/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/Google%20Advanced%20Data%20Analytics.jpeg?raw=true" alt="View 
+![Certificate for Rennie Ramlochan](https://github.com/rennieramlochan/Google-Advanced-Data-Analytics-Professional-Certificate/blob/main/Google%20Advanced%20Data%20Analytics.jpeg?raw=true)
 
 Certificate for Rennie Ramlochan, Advanced Data Analytics Professional Certificate, offered through Google.
-
-
-
-![Certificate for Rennie Ramlochan](URL_TO_YOUR_CERTIFICATE_IMAGE)
 
 ## Overview
 This repository serves as a professional portfolio documenting the completion of the **Google Advanced Data Analytics Professional Certificate** offered through Coursera.
@@ -48,3 +44,6 @@ course-04-statistics/         # Statistical testing and inference
 course-05-regression/         # Regression modeling projects
 course-06-machine-learning/   # Predictive modeling notebooks
 course-07-capstone/           # Final end-to-end project analysis
+
+
+Maintained by Rennie Ramlochan
